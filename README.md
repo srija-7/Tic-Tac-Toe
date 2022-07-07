@@ -11,3 +11,7 @@
 ![alt text](https://github.com/srija-7/Tic-Tac-Toe/blob/main/images/2022-07-07%20(1).png)
 ![alt text](https://github.com/srija-7/Tic-Tac-Toe/blob/main/images/2022-07-07%20(2).png)
 ![alt text](https://github.com/srija-7/Tic-Tac-Toe/blob/main/images/2022-07-07%20(4).png)
+
+## Links
+ - [linkedin](https://www.linkedin.com/in/srija-2907/)
+ - [github](https://github.com/srija-7)
